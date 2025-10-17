@@ -1,2 +1,2 @@
-# catapult
+# Catapult
 Onboarding tool
